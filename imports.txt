@@ -1,0 +1,3 @@
+instalar paquetes :
+--PySide6
+--mysql-Conecctor-python
